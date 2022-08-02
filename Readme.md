@@ -13,16 +13,16 @@ The aim of this project is to create the cinema service using Spring and Rest th
 
 <code>/seats</code>
 
-	display all avaialable seats at cinema
+display all avaialable seats at cinema
 
 <code>/purchase</code>
 
-	request number of a row and of a column to buy a ticket and hide it from available seats
+request number of a row and of a column to buy a ticket and hide it from available seats
 
 <code>/return</code>
 
-	using UUID token to identify ticket and refund it
+using UUID token to identify ticket and refund it
 
 <code>/stats</code>
 
-	manager can request statistic about cinema (available tickets, total income, the number of purchased tickets) only by proving the correct password
+manager can request statistic about cinema (available tickets, total income, the number of purchased tickets) only by proving the correct password
