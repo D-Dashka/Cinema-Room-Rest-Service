@@ -1,6 +1,6 @@
 # Cinema Room Rest Service
 
-### First try at Spring Boot and Rest Serive
+### First try at Spring Boot and Rest Service
 <hr>
 
 ### JetBrains Academy project
