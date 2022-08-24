@@ -7,7 +7,7 @@
 
 ## Description
 
-The aim of this project is to create the cinema service using Spring and Rest that should handle several GET and POST requests to show available ticket, buy and refund tickets and display statistics and display appropriate errors to manage bad requests.
+The aim of this project is to create the cinema service using Spring and Rest that should handle several GET and POST requests to show available seats, buy and refund tickets, display statistics and throw appropriate errors to manage bad requests.
 
 ## Endpoints
 
